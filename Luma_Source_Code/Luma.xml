@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="luma.Luma"/>
+      <parameter name = "first_name" value = "Faiz"/>
+      <parameter name = "last_name" value = "Tadkal"/>
+      <parameter name = "email_id" value = "faiztadkalit123@gmail.com"/>
+      <parameter name = "password" value = "Faiz@Tadkal"/>
+      <parameter name = "conf_password" value = "Faiz@Tadkal"/>
+      <parameter name = "firstname" value = "Faisal"/>
+      <parameter name = "lastname" value = "Mangalgiri"/>
+      <parameter name = "new_email_id" value = "faisalmangalgiriit123@gmail.com"/>
+      <parameter name = "old_password" value = "Faiz@Tadkal"/>
+      <parameter name = "new_password" value = "Faisal@Mangalgiri"/>
+      <parameter name = "conf_Password" value = "Faisal@Mangalgiri"/>
+      <parameter name = "username" value = "faisalmangalgiriit123@gmail.com"/>
+      <parameter name = "pass" value = "Faisal@Mangalgiri" />
+      <parameter name = "product" value = "Sweatshirt"/>
+      <parameter name = "quantity" value ="10"/>
+      <parameter name = "company" value = "NA"/>
+      <parameter name = "address_line_1" value = "House No. 600"/>
+      <parameter name = "address_line_2" value = "Sakhar Peth"/>
+      <parameter name = "address_line_3" value = "Near Akbar Kasim Masjid"/>
+      <parameter name = "city" value = "Solapur"/>
+      <parameter name = "zipcode" value = "413005"/>
+      <parameter name = "phone_number" value = "9123456780"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
